@@ -71,4 +71,4 @@ The feature selection techniques used are:
 # RESULT:
 
 
-Thus the given data, Feature Encoding, Transformation process and save the data to a file was performed successfully.
+Thus, Feature selection and Feature scaling has been used on the given data set.
